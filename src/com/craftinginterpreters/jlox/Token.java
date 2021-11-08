@@ -1,3 +1,5 @@
+package com.craftinginterpreters.jlox;
+
 public class Token
 {
     final TokenType type;

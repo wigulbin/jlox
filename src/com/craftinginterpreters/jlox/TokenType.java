@@ -1,3 +1,5 @@
+package com.craftinginterpreters.jlox;
+
 enum TokenType
 {
     // Single-character tokens.
